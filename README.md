@@ -1,10 +1,11 @@
 Create a file config.json
+```
 {
 	"BITTREX_KEY": "XXX",
 	"BITTREX_SECRET": "YYY",
 	"DIF_TO_MIN_THRESHOLD": 0.3
 }
-
+```
 
 
 TODO LIST:
